@@ -6,7 +6,7 @@
 - Course: CMPE195A/B - Senior Project
 - Main reference: https://arxiv.org/pdf/2106.04803v2.pdf
 # About The Model
-E-Flower integrates CoAtNet, a product of combing convolution neural networks (CNN) and attention-based transformation logics. 
+E-Flower integrates CoAtNet, a product of combining convolution neural networks (CNN) and attention-based transformation logics. 
 ## CNN
 CNN is dominating in the computer vision field for it's inductive bias, meaning this algorimth is ideal for making prediction with less training images.
 ## Transformer 
